@@ -66,6 +66,25 @@
  С помощью графиков показал:откуда пользователи смотрят фильмы и в каком количестве, на данной платформе.Пердположил сценарий,по которому онлайн-кинотеатр может выйти на 25% маржинальность.
 </ol>
 <br> 
+<br> 
+<p> Проект 3: Когортный анализ онлайн-кинотеатра с помощью SQL</p>
 
+<ol>
+  <li>Задача №1</li>
+  Построить распределение количества первых покупок клиента по полям is_trial и name_partner.
+  <li>Задача №2.</li>
+  Постройть стакнутый барчарт с распределением количества покупок по полям is_trial и name_partner и добавить к графику срез, на котором можно выбрать, на каких по счету покупках в рамках клиента построена гистограмма.
+</ol>
+
+> <a href="https://docs.google.com/document/d/1NM0N83dyE3CmFfv2RX1mwklNvAPIpD-FFlDLOCEfBb4/edit?usp=sharing">Документ с кодом SQL</a>
+
+<ol>
+  <li>Итог №1</li>
+  > <a href="https://docs.google.com/spreadsheets/d/1j6hsjdRI1HuZGpfOMd-txLgZ1PVynAx_lD0DPswIPC8/edit?usp=sharing">График к заданию 1</a>
+  <li>Итог №2</li>
+  > <a href="https://docs.google.com/spreadsheets/d/1EtQmgET6V4absIMnDsqWRMGhmd9m45ax4rQbnxYVsrM/edit?usp=sharing">График к заданию 2</a>
+</ol>
+
+<br> 
 
 
